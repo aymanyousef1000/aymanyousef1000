@@ -28,7 +28,8 @@
    - C
    - C#
    - Java 
-   - php
+   - php 
+   - MySQL
    - OOP
    - HTML & CSS
    - BootStrap4
