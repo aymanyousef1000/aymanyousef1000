@@ -18,7 +18,7 @@
 
 [<img align="left" alt="Ayman Yousef | Facebook" width="22px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="Ayman Yousef | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
-[<img align="left" alt="Ayman Yousef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ayman Yousef | LinkedIn" width="22px" src="https://img.icons8.com/color-glass/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Ayman Yousef | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
