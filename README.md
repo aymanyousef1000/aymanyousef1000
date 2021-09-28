@@ -31,6 +31,7 @@
    - php 
    - MySQL
    - OOP
+   - Laravel
    - HTML & CSS
    - BootStrap4
    - MS SQL Server
