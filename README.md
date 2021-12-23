@@ -5,7 +5,7 @@
 ## I'm a Computer Science Student and Technology Geek!!
 
 
-- 🌱 I’m currently learning back-end development using php & laravel .
+- 🌱 I’m currently learning UI/UX Design and back-end development using php & laravel .
 - 🥅 2021 Goals: Contribute in more projects and
   gaining new experiences .
 - 🏠 I live in Cairo, Egypt but i'm originally from Kafr El sheikh, Egypt.
