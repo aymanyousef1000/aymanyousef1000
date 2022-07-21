@@ -39,6 +39,8 @@
    - WindowsForm Applications
    - Android App Development
    - Adobe XD
+   - Figma
+   - Zeplin
 
 
 <br />
