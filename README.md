@@ -5,7 +5,7 @@
 ## I'm a Computer Science Student and Technology Geek!!
 
 
-- 🌱 Now, i am a UX Designer at TatweerMEA
+- 🌱 Now, i am a UX Designer at Algoriza , ex TatweerMEA
 - 🥅 2022 Goals: Contribute in more projects and
   gaining new experiences .
 - 🏠 I live in Cairo, Egypt but i'm originally from Kafr El sheikh, Egypt.
